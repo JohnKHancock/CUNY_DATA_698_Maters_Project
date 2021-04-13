@@ -2,3 +2,5 @@
 project-model/.idea/inspectionProfiles/profiles_settings.xml
 *.xml
 project-model/.idea/project-model.iml
+project-model/.ipynb_checkpoints/arima-model-v2-checkpoint.ipynb
+project-model/.ipynb_checkpoints/covid19-model-v2.1-checkpoint.ipynb
